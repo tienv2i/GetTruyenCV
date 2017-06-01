@@ -1,0 +1,12 @@
+E:\CSharp\GetTruyen\GetTruyen\bin\Release\GetTruyen.exe
+E:\CSharp\GetTruyen\GetTruyen\bin\Release\GetTruyen.pdb
+E:\CSharp\GetTruyen\GetTruyen\bin\Release\HtmlAgilityPack.dll
+E:\CSharp\GetTruyen\GetTruyen\bin\Release\HtmlAgilityPack.pdb
+E:\CSharp\GetTruyen\GetTruyen\bin\Release\HtmlAgilityPack.xml
+E:\CSharp\GetTruyen\GetTruyen\obj\Release\GetTruyen.csprojResolveAssemblyReference.cache
+E:\CSharp\GetTruyen\GetTruyen\obj\Release\GetTruyen.ChapterDisplay.resources
+E:\CSharp\GetTruyen\GetTruyen\obj\Release\GetTruyen.MainForm.resources
+E:\CSharp\GetTruyen\GetTruyen\obj\Release\GetTruyen.Properties.Resources.resources
+E:\CSharp\GetTruyen\GetTruyen\obj\Release\GetTruyen.csproj.GenerateResource.Cache
+E:\CSharp\GetTruyen\GetTruyen\obj\Release\GetTruyen.exe
+E:\CSharp\GetTruyen\GetTruyen\obj\Release\GetTruyen.pdb
